@@ -1,1 +1,12 @@
 *.zip
+*.p
+*.meta
+*.index
+*.gz
+__pycache__/
+
+#Image Classification Project 
+.ipynb_checkpoints/
+checkpoint
+cifar-10-batches-py/
+image_classification.data-00000-of-00001
