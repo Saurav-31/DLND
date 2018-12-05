@@ -10,3 +10,4 @@ __pycache__/
 checkpoint
 cifar-10-batches-py/
 image_classification.data-00000-of-00001
+save.data-00000-of-00001

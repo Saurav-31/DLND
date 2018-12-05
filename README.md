@@ -14,5 +14,20 @@ A CNN model with three conv and max pool layers, initializations with truncated 
 Accuracy ~ 53% for 30 epochs 
 Batch Normalisation, data augmentation and hyperparamter tuning is not done yet.
 
+**Project3: TVScriptGeneration from Simpson's scenes**
+
+Tensorflow implementation of a LSTM network is used. 
+
+Instructions to run: 
+1. Create a new conda environment with 
+    conda create -n tvscript python=3.5
+2. Install all the packages required with 
+    pip install -r requirements.txt
+    pip install tensorflow-gpu==1.0.0
+
+Use cuda-8.0 + cudnn6
+
+
+
 
 
