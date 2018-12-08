@@ -3,7 +3,7 @@
 *.meta
 *.index
 *.gz
-__pycache__/
+*.ckpt.data-00000-of-00001
 
 #Image Classification Project 
 .ipynb_checkpoints/
@@ -11,3 +11,4 @@ checkpoint
 cifar-10-batches-py/
 image_classification.data-00000-of-00001
 save.data-00000-of-00001
+__pycache__/
