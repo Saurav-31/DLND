@@ -12,3 +12,7 @@ cifar-10-batches-py/
 image_classification.data-00000-of-00001
 save.data-00000-of-00001
 __pycache__/
+TransferLearning/flower_photos/
+TransferLearning/tensorflow_vgg/
+TransferLearning/codes
+GAN-GenerateFaces/input/
