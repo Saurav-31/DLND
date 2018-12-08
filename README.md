@@ -27,11 +27,11 @@ Instructions to run:
 
 Use cuda-8.0 + cudnn6
 
-**Project4: Language Translation from English to French Sentences"
+**Project4: Language Translation from English to French Sentences"**
 
 Results are quite good. Use the same configuration which was used for Project3. tesnorflow1.0.0 + cuda-8.0 + cudnn6
 
-**Project5: Generate Celeb Faces using GAN's **
+**Project5: Generate Celeb Faces using GAN's**
 
 Uses a model that do well to generate digits when trained on Mnist dataset and then use the same model with more number of Layers with Generator and discriminator network.
 
